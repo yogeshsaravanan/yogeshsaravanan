@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**yogeshsaravanan/yogeshsaravanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
+- 🌐 Fullstack | Python Automation Developer in work
+- 💼 Python Automation Deve
+- 🌱 Learning more about Fullstack, Automations, Gen AI and Algorithms.
+- ⚡️ Fun fact: I like playing chess.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Frontend: HTML, CSS, JavaScript, React JS
+- Backend: Python, Django, Django Rest Framework
+- Automation: Python , Selenium, BDD framework, Robot Framework 
+- Other: Data Structures, Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Project
+- Check out my project [Task Manager](https://web-production-8138.up.railway.app/)!
+
+## 📫 Connect with Me
+- LinkedIn: [Yogesh Saravanan](https://www.linkedin.com/in/yogeshwaran-saravanan-71874217b/)
+
+Feel free to reach out to collaborate or just to say hi! 😊
