@@ -5,6 +5,20 @@
 - 🌱 Learning more about Fullstack, Automations, Gen AI and Algorithms.
 - ⚡️ Fun fact: I like playing chess.
 
+## 🛠 Languages and Tools
+- Programming Languages: Python, JavaScript
+- Web Technologies: HTML5, CSS3, Bootstrap 5, Tailwind CSS
+- Web Frameworks: Django, Django REST Framework, React JS
+- Automation: Python, Selenium, behave, Robot framework, API
+- Data Analysis: pandas, numpy, matplotlib, scipy, NLP
+- AI/ML : spacy, opencv
+- Databases: MySQL, PostgreSQL, Mongo DB, kafka, Dynamo DB
+- Version Control: Git, GitHub
+- Operating System: Linux
+- IDEs: Visual Studio Code, Pycharm
+- API Development: Postman
+
+
 ## 🚀 Skills
 - Frontend: HTML, CSS, JavaScript, React JS
 - Backend: Python, Django, Django Rest Framework
