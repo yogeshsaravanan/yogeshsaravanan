@@ -1,8 +1,7 @@
 ### Hi, Yogesh here👋
 
 ## 👨🏻‍💻 About Me
-- 🌐 Fullstack | Python Automation Developer in work
-- 💼 Python Automation Deve
+- 🌐 Fullstack | Python Automation Developer at work
 - 🌱 Learning more about Fullstack, Automations, Gen AI and Algorithms.
 - ⚡️ Fun fact: I like playing chess.
 
